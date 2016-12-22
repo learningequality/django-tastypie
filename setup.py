@@ -10,7 +10,7 @@ except ImportError:
 
 setup(
     name='django-tastypie-legacy',
-    version='0.12.2-post1',
+    version='0.12.2-post2',
     description='Patching tastypie 0.12 series for South.',
     author='Daniel Lindsley',
     author_email='benjamin@learningequality.org',
