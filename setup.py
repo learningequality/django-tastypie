@@ -9,12 +9,12 @@ except ImportError:
 
 
 setup(
-    name='django-tastypie',
-    version='0.12.2-dev',
-    description='A flexible & capable API layer for Django.',
+    name='django-tastypie-legacy',
+    version='0.12.2-post1',
+    description='Patching tastypie 0.12 series for South.',
     author='Daniel Lindsley',
-    author_email='daniel@toastdriven.com',
-    url='http://github.com/toastdriven/django-tastypie/',
+    author_email='benjamin@learningequality.org',
+    url='http://github.com/learningequality.org/django-tastypie/',
     long_description=open('README.rst', 'r').read(),
     packages=[
         'tastypie',
